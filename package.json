@@ -1,5 +1,5 @@
 {
-  "name": "serverless_tut",
+  "name": "serverless",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gitdagray/serverless.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gitdagray/serverless/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/gitdagray/serverless#readme",
+  "homepage": "",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }
